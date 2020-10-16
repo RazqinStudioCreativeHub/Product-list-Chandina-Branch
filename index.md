@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Welcome to Your Product list Chandina Branch
+You can find your arraival product By
 
-You can use the [editor on GitHub](https://github.com/RazqinStudioCreativeHub/Product-list-Chandina-Branch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Code———Your Name—–Your Mobile Number(last 3 digit)——– Arraival day
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+such as : A50—–Ayon Chawdury——(**225)——25/12/2020 A51—–Sumiaya Akhter—–(*668)——-25/12/2020
 
-### Markdown
+Your Have to verify by your mobile number to receive your product & correct identification so please bring your mobile with same cellular number issued noted by the sender.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Your Best Wishes -Sundarban curier service chandina Branch ______________________________________________ ______________________________________________ ______________________________________________ ______________________________________________ ______________________________________________ ______________________________________________
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RazqinStudioCreativeHub/Product-list-Chandina-Branch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A25——–nadim parvez rinku—-**042—-10/10/2020><A26—–jahanara—–*334—-11/10/2020><A27—–**66—-8/10/2020
